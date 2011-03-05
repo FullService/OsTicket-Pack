@@ -1,0 +1,9 @@
+[submodule "wiki_OsTicket-Pack"]
+	path = wiki_OsTicket-Pack
+	url = git@github.com:FullService/OsTicket-Pack.wiki.git
+[submodule "wiki_OsTicket-Translator"]
+	path = wiki_OsTicket-Translator
+	url = git@github.com:FullService/OsTicket.wiki.git
+[submodule "OsTicket-Translator"]
+	path = OsTicket-Translator
+	url = git@github.com:FullService/OsTicket.git
